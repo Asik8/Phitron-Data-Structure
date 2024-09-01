@@ -1,0 +1,1 @@
+{"name":"Local: CountNodes","url":"d:\\Phitron\\Data Structure\\Binary Tree\\CountNodes.cpp","tests":[{"id":1724132944173,"input":"10 20 60 30 50 70 -1 -1 40 -1 -1 -1 -1 80 -1 -1 -1","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Data Structure\\Binary Tree\\CountNodes.cpp","group":"local","local":true}

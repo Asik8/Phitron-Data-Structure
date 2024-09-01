@@ -1,0 +1,1 @@
+{"name":"Local: p5","url":"d:\\Phitron\\Data Structure\\Module 2\\Practice Problems\\p5.cpp","tests":[{"id":1718098068320,"input":"10\n1 2 3 2 4 2 5 2 6 2\n2 9\n5\n","output":"1 9 3 9 4 9 5 9 6 9\n6\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Data Structure\\Module 2\\Practice Problems\\p5.cpp","group":"local","local":true}

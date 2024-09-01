@@ -1,0 +1,1 @@
+{"name":"Local: p2","url":"d:\\Phitron\\Data Structure\\Module 6.5\\p2.cpp","tests":[{"id":1719291004893,"input":"5 4 8 6 2 1 -1","output":"NO"},{"id":1719291015255,"input":"2 4 5 6 7 4 -1","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Data Structure\\Module 6.5\\p2.cpp","group":"local","local":true}

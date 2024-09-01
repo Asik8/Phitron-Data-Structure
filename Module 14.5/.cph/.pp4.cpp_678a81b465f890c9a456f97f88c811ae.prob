@@ -1,0 +1,1 @@
+{"name":"Local: pp4","url":"d:\\Phitron\\Data Structure\\Module 14.5\\pp4.cpp","tests":[{"id":1720502024087,"input":"5\n10 20 30 40 50","output":"50 40 30 20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Data Structure\\Module 14.5\\pp4.cpp","group":"local","local":true}

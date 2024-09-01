@@ -1,0 +1,1 @@
+{"name":"Local: p3(Optimizes)","url":"d:\\Phitron\\Data Structure\\DSA-module-3.5-Phitron\\p3(Optimizes).cpp","tests":[{"id":1718256137157,"input":"5\n6 3 2 1 8\n4\n1\n5\n2\n9","output":"YES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Data Structure\\DSA-module-3.5-Phitron\\p3(Optimizes).cpp","group":"local","local":true}
